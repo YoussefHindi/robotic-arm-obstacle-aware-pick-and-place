@@ -33,7 +33,7 @@ sudo apt-get install ros-noetic-universal-robots
 NB: other dependencies may be required to be installed according to your ros packages installed.
 ### Compiling and Folder Structure
 
-The directory Nodogoro_Submission contains the simulation_ws which contains all packages required for simulation, as well as videos of the simulation.
+This workspace contains the simulation_ws which contains all packages required for simulation, as well as videos of the simulation.
 
     .
     ├── Videos                   # Videos of the simulation
